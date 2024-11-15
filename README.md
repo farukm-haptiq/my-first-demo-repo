@@ -10,3 +10,4 @@ Here the file in website
 
 ## Website content
 main.html
+index.html
